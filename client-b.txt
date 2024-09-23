@@ -2,3 +2,5 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+mapping: -count shelving units/rows N/S by Integers
+         -count shelving units/rows E/W by Alphabetical 
