@@ -1,4 +1,11 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Program randomly selects Integer between 1-10
+Player selects Integer, 
+Loop: if = print "Winner!" if not = print "Try Again!" and repeat Loop
+Player selects 2nd Integer,
+Repeat Loop
+Player selects 3rd Integer,
+Repeat Loop
+Print "Thanks for Playing" with floating balloon graphic background
