@@ -2,3 +2,7 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+At Start= Integer=0
+With each scanned code= Integer +2 
+repeat until Integer=50
+Alert for full case when Integer= 50
