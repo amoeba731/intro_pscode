@@ -2,5 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
-mapping: -count shelving units/rows N/S by Integers
-         -count shelving units/rows E/W by Alphabetical 
+start at most South West corner.
+label rows with Numerical Integers, 
+Moving North 1 row at a time,  +1 to Integer label,
+Moving South 1 row at a time, -1 to Integer label
+label shelving units with Alphabetical Integer 
+Moving East 1 unit, increase letter in alphabet
+Moving West 1 unit, decrease letter in alphabet
+
+EXAMPLE: Location 5Z would be 5 rows North of the Southmost edge, and 26 shelving units East from the Westmost edge of the room 
+
